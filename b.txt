@@ -1,1 +1,2 @@
-this is my b text file
+this is my b text file...
+again
